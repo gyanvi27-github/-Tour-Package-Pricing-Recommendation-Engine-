@@ -1,0 +1,61 @@
+package_id,destination,duration_days,base_price,category,season_tag,group_size_range,is_international,destination_popularity
+PKG0001,Bali (Intl),6,46100,Honeymoon,All-Season,4-6,True,0.903
+PKG0002,Andaman Islands,2,8400,Beach,All-Season,1-2,False,0.596
+PKG0003,Thailand (Intl),12,123800,Beach,Summer,10+,True,0.592
+PKG0004,Hampi,4,9100,Cultural,Summer,2-4,False,0.335
+PKG0005,Andaman Islands,7,22200,Beach,Summer,10+,False,0.596
+PKG0006,Ladakh,3,10300,Pilgrimage,Off-Season,6-10,False,0.765
+PKG0007,Andaman Islands,2,8300,Beach,Winter,1-2,False,0.596
+PKG0008,Dubai (Intl),4,39300,Pilgrimage,Peak-Winter,4-6,True,0.687
+PKG0009,Udaipur,4,12900,Honeymoon,Winter,1-2,False,0.49
+PKG0010,Goa,5,14500,Beach,Winter,4-6,False,0.933
+PKG0011,Spiti Valley,12,43200,Adventure,Summer,6-10,False,0.366
+PKG0012,Munnar,12,47300,Leisure,Peak-Winter,1-2,False,0.46
+PKG0013,Munnar,6,24000,Leisure,All-Season,10+,False,0.46
+PKG0014,Kashmir,2,5800,Beach,Monsoon,1-2,False,0.898
+PKG0015,Manali,2,6500,Adventure,Winter,1-2,False,0.988
+PKG0016,Maldives (Intl),4,32800,Honeymoon,Summer,6-10,True,0.879
+PKG0017,Udaipur,8,23200,Honeymoon,Winter,2-4,False,0.49
+PKG0018,Coorg,4,13700,Leisure,All-Season,4-6,False,0.638
+PKG0019,Vietnam (Intl),3,31300,Pilgrimage,Summer,10+,True,0.638
+PKG0020,Bali (Intl),2,24500,Honeymoon,All-Season,2-4,True,0.903
+PKG0021,Varanasi,8,19600,Pilgrimage,Winter,10+,False,0.312
+PKG0022,Andaman Islands,2,7900,Beach,Summer,2-4,False,0.596
+PKG0023,Bhutan (Intl),7,69700,Cultural,Winter,6-10,True,0.61
+PKG0024,Udaipur,8,18700,Honeymoon,Off-Season,4-6,False,0.49
+PKG0025,Ladakh,4,10500,Adventure,Peak-Winter,6-10,False,0.765
+PKG0026,Kerala Backwaters,10,32500,Leisure,Monsoon,10+,False,0.312
+PKG0027,Munnar,4,9200,Leisure,Off-Season,6-10,False,0.46
+PKG0028,Kashmir,4,12800,Honeymoon,Winter,2-4,False,0.898
+PKG0029,Kerala Backwaters,7,23000,Leisure,Summer,1-2,False,0.312
+PKG0030,Maldives (Intl),10,93100,Honeymoon,All-Season,2-4,True,0.879
+PKG0031,Sri Lanka (Intl),3,31200,Wildlife,Off-Season,1-2,True,0.786
+PKG0032,Shimla,7,23800,Adventure,Peak-Winter,10+,False,0.583
+PKG0033,Udaipur,8,25400,Honeymoon,Summer,1-2,False,0.49
+PKG0034,Thailand (Intl),5,41800,Honeymoon,Winter,4-6,True,0.592
+PKG0035,Rishikesh,2,4800,Adventure,Monsoon,6-10,False,0.489
+PKG0036,Jaipur,2,6700,Pilgrimage,Winter,10+,False,0.4
+PKG0037,Dubai (Intl),4,36100,Leisure,Summer,4-6,True,0.687
+PKG0038,Bhutan (Intl),10,74900,Cultural,Off-Season,2-4,True,0.61
+PKG0039,Kerala Backwaters,5,17500,Leisure,Monsoon,10+,False,0.312
+PKG0040,Dubai (Intl),3,20200,Adventure,Off-Season,4-6,True,0.687
+PKG0041,Agra,4,9600,Cultural,Winter,4-6,False,0.323
+PKG0042,Andaman Islands,12,47100,Beach,Off-Season,1-2,False,0.596
+PKG0043,Goa,6,26700,Honeymoon,Summer,10+,False,0.933
+PKG0044,Dubai (Intl),8,58600,Leisure,All-Season,6-10,True,0.687
+PKG0045,Munnar,10,32400,Leisure,Off-Season,10+,False,0.46
+PKG0046,Hampi,8,30400,Beach,All-Season,2-4,False,0.335
+PKG0047,Vietnam (Intl),4,27300,Cultural,All-Season,4-6,True,0.638
+PKG0048,Meghalaya,3,8700,Wildlife,Summer,2-4,False,0.323
+PKG0049,Andaman Islands,8,32300,Beach,Summer,10+,False,0.596
+PKG0050,Munnar,2,6400,Leisure,Monsoon,1-2,False,0.46
+PKG0051,Goa,5,14900,Adventure,Monsoon,1-2,False,0.933
+PKG0052,Kashmir,3,9700,Honeymoon,Winter,1-2,False,0.898
+PKG0053,Rann of Kutch,12,32800,Cultural,All-Season,6-10,False,0.372
+PKG0054,Ladakh,5,19500,Adventure,All-Season,10+,False,0.765
+PKG0055,Pondicherry,4,16200,Beach,Peak-Winter,6-10,False,0.423
+PKG0056,Ladakh,12,35000,Adventure,All-Season,6-10,False,0.765
+PKG0057,Coorg,5,14600,Leisure,Peak-Winter,1-2,False,0.638
+PKG0058,Thailand (Intl),4,25400,Beach,All-Season,1-2,True,0.592
+PKG0059,Manali,6,22000,Adventure,Winter,1-2,False,0.988
+PKG0060,Andaman Islands,2,5700,Beach,Off-Season,6-10,False,0.596
