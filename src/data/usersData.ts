@@ -3,7 +3,7 @@ import { UserProfile, Category, BudgetRange } from '../types';
 export const USERS_DATA: UserProfile[] = [
   {
     user_id: 'USR-001',
-    name: 'Simran Sharma',
+    name: 'Virat Sharma',
     avatar: 'https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80',
     preferred_categories: ['Adventure', 'Beach', 'Cultural'],
     budget_range: '25k–50k',
