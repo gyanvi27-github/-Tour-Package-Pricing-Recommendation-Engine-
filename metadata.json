@@ -1,0 +1,6 @@
+{
+  "name": "TripWise AI",
+  "description": "ML-powered travel intelligence platform providing personalized tour package recommendations and demand-adjusted pricing insights.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
